@@ -1,0 +1,8 @@
+#Bruno Ricardo da Silva
+#RA: 1520228
+#ARQUITETURA
+#Arquitetura do software de controle financeiro será identificado no módulo *finança.py*.
+#Arquitetura lógica descrevera o funcionamento lógico do software em termos de funções,classes e váriaveis.
+#Arquitetura física irá nos permitir a descrição dos conjuntos fontes, arquivos de dados, bibliotecas e outros que compõem fisicamente o programa.
+#A junção desses componentes conectados entri si formam a arquitetura do software.
+#Ela vai nos permitir especificar, visualizar e documentar a estrutura utilizada e a funcionalidade do software independente da liguagem de programação que será utilizada!
